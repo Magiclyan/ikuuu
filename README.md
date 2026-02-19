@@ -13,4 +13,6 @@
 * 250807 增加备用域名.de
 * 更早 修复失效的脚本
 
+# 脚本猫
+https://scriptcat.org/zh-CN/script-show-page/3982
 
